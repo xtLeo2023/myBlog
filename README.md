@@ -1,9 +1,9 @@
 # myBlog
 # 我的博客
-介绍：
-前端react+redux+antd；
+介绍：\n
+前端react+redux+antd；\n
 后端maven
-界面：
+# 界面：
 登陆注册
 <img width="1079" alt="登录" src="https://github.com/xtLeo2023/myBlog/assets/150776157/8aa42ca1-b791-4d32-a7bb-60c74c51aa11">
 <img width="1080" alt="注册" src="https://github.com/xtLeo2023/myBlog/assets/150776157/642d160a-1839-4c7a-a238-04e903f111aa">
