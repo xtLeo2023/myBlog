@@ -2,7 +2,9 @@
 # 我的博客
 # 介绍：
 前端react+redux+antd；
-后端maven
+后端maven;
+# 主要功能：
+登录、注册、浏览博客、发表博客
 # 界面：
 # 登陆注册
 <img width="1079" alt="登录" src="https://github.com/xtLeo2023/myBlog/assets/150776157/8aa42ca1-b791-4d32-a7bb-60c74c51aa11">
@@ -14,5 +16,5 @@
 # 博客详情
 <img width="1079" alt="查看详情" src="https://github.com/xtLeo2023/myBlog/assets/150776157/b1f92f7d-aaf3-4c6e-927a-4ea77a352b13">
 
-# 写博客
+# 发表博客
 <img width="1079" alt="写博客" src="https://github.com/xtLeo2023/myBlog/assets/150776157/e2c1a83e-644f-451c-90b3-525e0779f246">
