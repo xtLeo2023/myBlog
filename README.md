@@ -4,7 +4,7 @@
 前端react+redux+antd；
 后端maven;
 # 主要功能：
-登录、注册、浏览博客、发表博客
+登录、注册、浏览博客、发表博客、注销
 # 界面：
 # 登陆注册
 <img width="1079" alt="登录" src="https://github.com/xtLeo2023/myBlog/assets/150776157/8aa42ca1-b791-4d32-a7bb-60c74c51aa11">
