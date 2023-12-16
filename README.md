@@ -11,13 +11,14 @@
 <img width="1080" alt="注册" src="https://github.com/xtLeo2023/myBlog/assets/150776157/642d160a-1839-4c7a-a238-04e903f111aa">
 
 # 主页
-<img width="1078" alt="image" src="https://github.com/xtLeo2023/myBlog/assets/150776157/731236cd-10b8-47fc-9245-fce393ad7b94">
+<img width="1078" alt="主页" src="https://github.com/xtLeo2023/myBlog/assets/150776157/731236cd-10b8-47fc-9245-fce393ad7b94">
 
-# 博客详情
-<img width="1079" alt="查看详情" src="https://github.com/xtLeo2023/myBlog/assets/150776157/b1f92f7d-aaf3-4c6e-927a-4ea77a352b13">
+# 浏览博客详情
+<img width="1079" alt="浏览博客" src="https://github.com/xtLeo2023/myBlog/assets/150776157/f50c15fb-d267-41d9-955b-154f59dafd5b">
 
-# 修改博客
-<img width="1080" alt="image" src="https://github.com/xtLeo2023/myBlog/assets/150776157/4affcbc3-c431-4214-9e0c-f9ae9235f9c6">
+
+# 修改博客内容
+<img width="1080" alt="修改博客" src="https://github.com/xtLeo2023/myBlog/assets/150776157/4affcbc3-c431-4214-9e0c-f9ae9235f9c6">
 
 # 发表博客
 <img width="1079" alt="写博客" src="https://github.com/xtLeo2023/myBlog/assets/150776157/e2c1a83e-644f-451c-90b3-525e0779f246">
