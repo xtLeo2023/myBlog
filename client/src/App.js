@@ -3,7 +3,7 @@ import { Layout, Menu, Avatar, Typography } from 'antd';
 import { Routes, Route, useNavigate  } from 'react-router-dom';
 import { HomeOutlined, EditOutlined, LogoutOutlined } from '@ant-design/icons';
 import { useSelector, useDispatch } from 'react-redux';
-import { loginUser } from './redux/userSlice.js';
+import { logoutUser } from './redux/userSlice.js';
 import './App.css';
 import logo from './logo.svg';
 import Home from './blog/home'
@@ -38,7 +38,7 @@ function BlogApp() {
 
   const handleMenuClick = (e) => {
     if(e.key.trim() === 'logout'){
-      dispatch(loginUser({}));
+      dispatch(logoutUser({}));
       navigate('/')
     }else{
       navigate('/blog/'+e.key);
